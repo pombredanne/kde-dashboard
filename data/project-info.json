@@ -1,0 +1,17 @@
+{
+"date":"",
+"project_name" :"KDE", 
+"project_url" :"http://kde.org/",
+"scm_url":"http://projects.kde.org/",
+"scm_name":"http://projects.kde.org/",
+"scm_type":"git",
+"its_url":"http://bugs.kde.org/",
+"its_name":"Tickets",
+"its_type":"Bugzilla",
+"mls_url":"http://lists.kde.org/",
+"mls_name":"Mailing lists",
+"mls_type":"gmane",
+"producer":"",
+"blog_url":""
+}
+
