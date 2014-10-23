@@ -1,25 +1,29 @@
 {
-    "scm": [
-        "companies",
-        "companies-summary",
-        "contributors",
-        "domains",
-        "repos"
-    ],
-    "mls": [
-        "companies",
-        "contributors",
-        "domains",
-        "repos"
-    ],
-    "studies": [
-        "demographics"
-    ],
+    "menu":{
+	"scm": [
+            "companies",
+            "companies-summary",
+            "contributors",
+            "domains",
+            "repos"
+	],
+	"mls": [
+            "companies",
+            "contributors",
+            "domains",
+            "repos"
+	],
     "its": [
         "companies",
         "contributors",
         "domains",
         "repos",
         "states"
-    ]
+    ],
+	"studies": [
+            "demographics"
+	],
+	"extra": []
+    },
+    "releases":[]
 }
